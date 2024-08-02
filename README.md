@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://todolist-ts-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" style="width: 50%;" alt="Project Banner">
+      <img src="public/design/preview.webp" style="width: 30%;" alt="Project Banner">
     </a>
   <h3 align="center">Todo List - React / TypeScript</h3>
 </div>
